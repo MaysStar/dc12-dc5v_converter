@@ -1,0 +1,7 @@
+# Altium Designer ignore files
+History/
+Project Outputs*/
+__Previews/
+*.PcbDoc.htm
+*.ConstraintRPV
+*.Logs
